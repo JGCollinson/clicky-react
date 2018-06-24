@@ -1,0 +1,7 @@
+.jumbotron {
+    margin-top: 80px;
+    background-image: url('../../assets/img/tng-mast.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: right;
+}
